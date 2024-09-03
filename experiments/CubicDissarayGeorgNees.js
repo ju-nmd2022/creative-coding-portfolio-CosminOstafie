@@ -11,7 +11,7 @@ function setup() {
   const squareSize = 30;
 
   for (let x = squareSize; x <= size - squareSize; x += squareSize) {
-    for (var y = squareSize; y <= size - squareSize; y += squareSize) {
+    for (let y = squareSize; y <= size - squareSize; y += squareSize) {
       let plusOrMinus = random() < 0.5 ? -1 : 1;
       let rotateAmount =
         (((y / size) * PI) / 180) * plusOrMinus * random() * rotateMultiplier;
