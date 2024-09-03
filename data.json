@@ -13,14 +13,13 @@
 
   {
     "file": "experiments/CubicDisarrayVariation1.js",
-    "name":" Cubic Disarray Variation 1",
-    "description":"Variation of the artwork by Georg Nees called Cubic Disarray.",
+    "name": " Cubic Disarray Variation 1",
+    "description": "Variation of the artwork by Georg Nees called Cubic Disarray."
+  },
 
-  }
   {
     "file": "experiments/CubicDisarrayVariation2.js",
-    "name":" Cubic Disarray Variation 2",
-    "description":"Variation of the artwork by Georg Nees called Cubic Disarray.",
-    
+    "name": " Cubic Disarray Variation 2",
+    "description": "Variation of the artwork by Georg Nees called Cubic Disarray."
   }
 ]
