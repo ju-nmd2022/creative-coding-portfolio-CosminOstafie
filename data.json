@@ -6,8 +6,21 @@
   },
 
   {
-    "file": "experiments/CubicDissarayGeorgNees.js",
-    "name": "Cubic Dissaray Recreation by Georg Nees",
-    "description": "I tried recreating the artwork called Cubic Dissaray by Georg Nees"
+    "file": "experiments/CubicDisarrayGeorgNees.js",
+    "name": "Cubic Disarray Recreation by Georg Nees",
+    "description": "I tried recreating the artwork called Cubic Disarray by Georg Nees"
+  },
+
+  {
+    "file": "experiments/CubicDisarrayVariation1.js",
+    "name":" Cubic Disarray Variation 1",
+    "description":"Variation of the artwork by Georg Nees called Cubic Disarray.",
+
+  }
+  {
+    "file": "experiments/CubicDisarrayVariation2.js",
+    "name":" Cubic Disarray Variation 2",
+    "description":"Variation of the artwork by Georg Nees called Cubic Disarray.",
+    
   }
 ]
