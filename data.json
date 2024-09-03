@@ -1,13 +1,13 @@
 [
   {
-    "file": "experiments/example.js",
-    "name": "Name of your experiment",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
-  },
-
-  {
     "file": "experiments/ComputerComposition.js",
     "name": "Computer Composition Recreation by A. Michael Noll",
     "description": "I tried recreating the artwork called Computer Composition by A. Michael Noll that came out in 1964."
+  },
+
+  {
+    "file": "experiments/CubicDissarayGeorgNees.js",
+    "name": "Cubic Dissaray Recreation by Georg Nees",
+    "description": "I tried recreating the artwork called Cubic Dissaray by Georg Nees"
   }
 ]
