@@ -21,5 +21,17 @@
     "file": "experiments/CubicDisarrayVariation2.js",
     "name": " Cubic Disarray Variation 2",
     "description": "Variation of the artwork by Georg Nees called Cubic Disarray."
+  },
+
+  {
+    "file": "experiments/ComputerCompositionVariation1.js",
+    "name": "Computer Composition by A. Michael Noll Variation 1",
+    "description": "Variation of Computer Composition by A. Michael Noll, with a dynamic movement"
+  },
+
+  {
+    "file": "experiments/ComputerCompositionVariation2.js",
+    "name": "Computer Composition Recreation by A. Michael Noll",
+    "description": "Variation of Computer Composition by A. Michael Noll, where the shapes vary in size based on the distance from the center and give the effect of a gradient."
   }
 ]
