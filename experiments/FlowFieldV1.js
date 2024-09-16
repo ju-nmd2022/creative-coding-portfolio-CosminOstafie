@@ -3,7 +3,7 @@ let particleAmount = 5500;
 let noiseScale = 0.01;
 
 function setup() {
-  createCanvas(innerWidth, innerHeight);
+  createCanvas(windowWidth, windowHeight);
   colorMode(HSB, 360, 100, 100);
 
   for (let i = 0; i < particleAmount; i++) {

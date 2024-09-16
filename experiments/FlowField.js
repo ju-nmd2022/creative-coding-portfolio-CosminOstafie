@@ -3,7 +3,7 @@ let particleAmount = 2000;
 let noiseScale = 0.01;
 
 function setup() {
-  createCanvas(innerWidth, innerHeight);
+  createCanvas(windowWidth, windowHeight);
   for (let i = 0; i < particleAmount; i++) {
     particles.push(createVector(random(width), random(height)));
     colorMode(HSL);
