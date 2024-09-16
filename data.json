@@ -33,5 +33,23 @@
     "file": "experiments/ComputerCompositionVariation2.js",
     "name": "Computer Composition Recreation by A. Michael Noll",
     "description": "Variation of Computer Composition by A. Michael Noll, where the shapes vary in size based on the distance from the center and give the effect of a gradient."
+  },
+
+  {
+    "file": "experiments/FlowField.js",
+    "name": "Flow Field Example",
+    "description": "This is my take on a simple flow field"
+  },
+
+  {
+    "file": "experiments/FlowFieldV1.js",
+    "name": "Flow Field Variation",
+    "description": "This is a variation of a Flow Field where clicking the mouse acts as a repellant for the particles"
+  },
+
+  {
+    "file": "experiments/GameOfLifeJohnConway.js",
+    "name": "Game of Life by John Conway Recreation",
+    "description": "I tried recreating Game of Life by John Conway"
   }
 ]
