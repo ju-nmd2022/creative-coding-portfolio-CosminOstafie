@@ -51,5 +51,11 @@
     "file": "experiments/GameOfLifeJohnConway.js",
     "name": "Game of Life by John Conway Recreation",
     "description": "I tried recreating Game of Life by John Conway"
+  },
+
+  {
+    "file": "experiments/SoundComposition.js",
+    "name": "Computer Composition by A. Michael Noll with sound added to it",
+    "description": "Variation of Computer Composition by A. Michael Noll, with a dynamic movement and a polysyth added to it"
   }
 ]
